@@ -1,0 +1,12 @@
+node_modules/
+**/.npm-cache/
+.next/
+dist/
+.env
+.DS_Store
+.vscode/
+npm-debug.log
+yarn-error.log
+.idea/
+package-lock.json
+/.cache/
